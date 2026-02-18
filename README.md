@@ -1,7 +1,7 @@
 # Hackaton-Project-2025
 United Generations - solving the loneliness of the eldery and the lack of housing for students in a simple match
 ## Contexto
-Esta aplicação foi desenvolvida no âmbito do evento [Hackaton/Buildaton](https://luma.com/wfas10a0) proporcionado pela entidade AlgarveEvolution no [UAlg Tec Campus](https://algarvetechhub.com/facility/ualg-tec-campus).
+Esta aplicação foi desenvolvida em grupo, trabalho de 4 pessoas no âmbito do evento [Hackaton/Buildaton](https://luma.com/wfas10a0) proporcionado pela entidade AlgarveEvolution no [UAlg Tec Campus](https://algarvetechhub.com/facility/ualg-tec-campus).
 Nesta Buildaton o principal objetivo foi desenvolver uma aplicação, utilizando como principal recurso a Inteligência Artificial,para combater desafios regionais do Algarve ou Portugal.
 Todo o código, inclusive o restante do readme com exceção a esta parte contextual, foi gerado com recurso à Inteligência Artificial [Bolt.new](https://bolt.new/).
 Foi também desenvolvido um vídeo para evidenciar as funcionalidades do MVP desenvolvido. O vídeo da app a funcionar pode ser consultado [aqui](/docs/pitchVideo.mp4).
